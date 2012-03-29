@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<config>
+    <modules>
+        <Briteskies_Addcolumns>
+            <codePool>local</codePool>
+            <active>true</active>
+        </Briteskies_Addcolumns>
+    </modules>
+</config>
